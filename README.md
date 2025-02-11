@@ -1,10 +1,10 @@
-## Hi there, my name is Gerard 👋
+# Hi there, my name is Gerard 👋
 
 Welcome!! Here, I document a summary of my projects I've been working on. 
 
-# YouTube Projects
+## YouTube Projects
 
-## 📚 Building the Ultimate Cybersecurity Lab
+### 📚 Building the Ultimate Cybersecurity Lab
 
 Check out [the project](https://github.com/gerardobrien/ultimate-cybersecurity-lab).
 <!--
