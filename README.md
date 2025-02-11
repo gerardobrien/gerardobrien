@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Gerard 👋
+
+Welcom!! Here, I document a summary of my projects I've been working on. 
+
 
 <!--
 **gerardobrien/gerardobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
