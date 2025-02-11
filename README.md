@@ -1,12 +1,13 @@
 # Hi there, my name is Gerard 👋
 
-Welcome!! Here, I document a summary of my projects I've been working on. 
+Welcome!! This is where I document a summary of the projects I've been working on. 
 
 ## YouTube Projects
 
 ### 📚 Building the Ultimate Cybersecurity Lab
+You can view [the series playlist here](https://www.youtube.com/playlist?list=PL3ljjyal211AbTqlxSo6CGBiVqsXw8wrp).
 
-Check out [the project](https://github.com/gerardobrien/ultimate-cybersecurity-lab).
+If you want to checkout the code for eposide 3 of the series, you can see [that here](https://github.com/gerardobrien/ultimate-cybersecurity-lab).
 <!--
 **gerardobrien/gerardobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
