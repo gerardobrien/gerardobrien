@@ -13,7 +13,7 @@ If you want to checkout the code for eposide 3 of the series, you can see [that 
 
 
 ### 📚 Building a tiny hacking lab
-You can view [the video here].(https://youtu.be/Yid0GxVryBs?si=2iC1xuxGvk2B3fHk).
+You can view [the video here](https://youtu.be/Yid0GxVryBs?si=2iC1xuxGvk2B3fHk).
 
 
 <!--
