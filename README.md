@@ -15,6 +15,9 @@ If you want to checkout the code for eposide 3 of the series, you can see [that 
 ### 📚 Building a tiny hacking lab
 You can view [the video here](https://youtu.be/Yid0GxVryBs?si=2iC1xuxGvk2B3fHk).
 
+### 📚 Building the Ultimate Network Security Lab
+You can view [the series playlist here](https://www.youtube.com/playlist?list=PL3ljjyal211AwchZtBYPvaLfKsHInG_O0).
+
 
 <!--
 **gerardobrien/gerardobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
