@@ -1,6 +1,6 @@
 # Hi there, my name is Gerard 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@gerardobrien) [![Twitter URL](https://img.shields.io/twitter/follow/gerardobrien?style=flat-square&logo=twitter)](https://twitter.com/gerardobrien)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@techwithgerard) [![Twitter URL](https://img.shields.io/twitter/follow/gerardobrien?style=flat-square&logo=twitter)](https://twitter.com/gerardobrien)
 
 Welcome!! This is where I document a summary of the projects I've been working on. 
 
